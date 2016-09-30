@@ -1,0 +1,1 @@
+# hive-jdbc-template-sample
